@@ -1,0 +1,151 @@
+# Exported from Wings 3D 2.1.7
+newmtl Aile_Inf
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.64 0.64 0.64
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd Aile_inf_text.jpg
+
+newmtl Aile_supl
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.64 0.64 0.64
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd Aile_sup_text.jpg
+
+newmtl BoisFonce
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.186412 0.031827 0.0
+Ka 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ke 0.0 0.0 0.0
+
+newmtl Bois_Clair
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.64 0.360313 0.105388
+Ka 0.0 0.0 0.0
+Ks 0.078313 0.078313 0.078313
+Ke 0.0 0.0 0.0
+
+newmtl Caoutchouc
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.0 0.0 0.0
+Ka 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ke 0.0 0.0 0.0
+
+newmtl Cotes_carlingue
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.64 0.64 0.64
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd Carlingue_txt.jpg
+
+newmtl Derive
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.64 0.64 0.64
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd Derive_text.jpg
+
+newmtl Dessus_carlingue
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.64 0.64 0.64
+Ka 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Kd Carlingue_2_text.jpg
+
+newmtl Metal1
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.105766 0.105766 0.105766
+Ka 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl Metal2
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.143667 0.143667 0.143667
+Ka 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl Metal3
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.0 0.0 0.0
+Ka 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ke 0.0 0.0 0.0
+
+newmtl Metal4
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.8 0.706571 0.541787
+Ka 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+
+newmtl Metal_chrome
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.578141 0.671296 0.695811
+Ka 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ke 0.0 0.0 0.0
+
+newmtl Profondeur
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.64 0.64 0.64
+Ka 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ke 0.0 0.0 0.0
+map_Kd profondeur_text.jpg
+
+newmtl Verre
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.64 0.64 0.64
+Ka 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ke 0.0 0.0 0.0
+
+newmtl default
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ka 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+

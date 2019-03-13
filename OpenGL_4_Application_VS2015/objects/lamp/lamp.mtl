@@ -1,0 +1,31 @@
+# Exported from Wings 3D 2.1.7
+newmtl AM107_032_bronze
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.1569 0.1569 0.1569
+Ka 0.0 0.0 0.0
+Ks 0.3922 0.3922 0.3922
+Ke 0.0 0.0 0.0
+map_Kd AM107_032_dirt.jpg
+
+newmtl AM107_032_glass
+Ns 90.0
+d 0.75
+illum 2
+Kd 0.588 0.588 0.588
+Ka 0.0 0.0 0.0
+Ks 0.45 0.45 0.45
+Ke 0.0 0.0 0.0
+map_Ka AM107_032_diffuse.jpg
+map_Kd AM107_032_diffuse.jpg
+
+newmtl default
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ka 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+

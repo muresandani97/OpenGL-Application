@@ -1,0 +1,21 @@
+# Exported from Wings 3D 2.1.7
+newmtl Wooden_Post_and_Rail_Fence_1
+Ns 90.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.27 0.27 0.27
+Ke 0.0 0.0 0.0
+map_Ka Wooden_Post_and_Rail_Fence_diffuse.JPG
+map_Kd Wooden_Post_and_Rail_Fence_diffuse.JPG
+
+newmtl Wooden_Post_and_Rail_Fence_2
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.5804 0.4667 0.3216
+Ka 0.456233 0.456233 0.456233
+Ks 0.27 0.27 0.27
+Ke 0.0 0.0 0.0
+

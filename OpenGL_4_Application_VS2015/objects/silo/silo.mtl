@@ -1,0 +1,12 @@
+# Exported from Wings 3D 2.1.7
+newmtl _20954_Farm_Silo_v120954_Farm_Silo
+Ns 90.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.35 0.35 0.35
+Ke 0.0 0.0 0.0
+map_Ka 20954_Farm_Silo_diffuse.jpg
+map_Kd 20954_Farm_Silo_diffuse.jpg
+

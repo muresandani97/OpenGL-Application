@@ -1,0 +1,12 @@
+# Exported from Wings 3D 2.1.7
+newmtl 13___Default
+Ns 90.0
+d 1.0
+illum 2
+Kd 0.588 0.588 0.588
+Ka 0.588 0.588 0.588
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+map_Ka Horse_v01.jpg
+map_Kd Horse_v01.jpg
+
